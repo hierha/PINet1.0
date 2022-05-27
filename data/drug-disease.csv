@@ -1,0 +1,330 @@
+drug_1	drug_2	drug_3	drug_4	drug_5	disease	evidence
+Bictegravir	tenofovir alafenamide	emtricitabine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Elvitegravir	cobicistat	tenofovir alafenamide	emtricitabine		Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Elvitegravir	cobicistat	tenofovir disoproxil	emtricitabine		Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Dolutegravir	abacavir	lamivudine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Dolutegravir	lamivudine				Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Darunavir	cobicistat	tenofovir alafenamide	emtricitabine		Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Efavirenz	tenofovir disoproxil	emtricitabine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Rilpivirine	tenofovir disoproxil	emtricitabine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Doravirine	tenofovir disoproxil	lamivudine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Rilpivirine	tenofovir alafenamide	emtricitabine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Efavirenz	tenofovir disoproxil	lamivudine			Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Dolutegravir	rilpivirine				Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Cabotegravir	rilpivirine				Acquired Immunodeficiency Syndrome	Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents Living with HIV
+Doxorubicin	cyclophosphamide				Breast Cancer	NCCN Guidelines
+Docetaxel	cyclophosphamide				Breast Cancer	NCCN Guidelines
+Cyclophosphamide	methotrexate	fluorouracil			Breast Cancer	NCCN Guidelines
+Epirubicin	cyclophosphamide				Breast Cancer	NCCN Guidelines
+Docetaxel	Doxorubicin	Cyclophosphamide			Breast Cancer	NCCN Guidelines
+Paclitaxel	carboplatin				Breast Cancer	NCCN Guidelines
+Docetaxel	carboplatin				Breast Cancer	NCCN Guidelines
+Doxorubicin	cyclophosphamide	Paclitaxel	trastuzumab		Breast Cancer	NCCN Guidelines
+Doxorubicin	cyclophosphamide	Paclitaxel	trastuzumab	pertuzumab	Breast Cancer	NCCN Guidelines
+Paclitaxel	trastuzumab				Breast Cancer	NCCN Guidelines
+Docetaxel	carboplatin	trastuzumab			Breast Cancer	NCCN Guidelines
+Docetaxel	carboplatin	trastuzumab	pertuzumab		Breast Cancer	NCCN Guidelines
+trastuzumab	pertuzumab				Breast Cancer	NCCN Guidelines
+Doxorubicin	cyclophosphamide	Docetaxel	trastuzumab		Breast Cancer	NCCN Guidelines
+Doxorubicin	cyclophosphamide	Docetaxel	trastuzumab	pertuzumab	Breast Cancer	NCCN Guidelines
+Doxorubicin	cyclophosphamide	Paclitaxel			Breast Cancer	NCCN Guidelines
+Doxorubicin	cyclophosphamide	Docetaxel			Breast Cancer	NCCN Guidelines
+Exemestane	Abemaciclib				Breast Cancer	NCCN Guidelines
+Exemestane	palbociclib				Breast Cancer	NCCN Guidelines
+Exemestane	ribociclib				Breast Cancer	NCCN Guidelines
+Anastrozole	Abemaciclib				Breast Cancer	NCCN Guidelines
+Anastrozole	palbociclib				Breast Cancer	NCCN Guidelines
+Anastrozole	ribociclib				Breast Cancer	NCCN Guidelines
+Letrozole	Abemaciclib				Breast Cancer	NCCN Guidelines
+Letrozole	palbociclib				Breast Cancer	NCCN Guidelines
+Letrozole	ribociclib				Breast Cancer	NCCN Guidelines
+Fulvestrant	anastrozole				Breast Cancer	NCCN Guidelines
+Fulvestrant	letrozole				Breast Cancer	NCCN Guidelines
+Fulvestrant	Abemaciclib				Breast Cancer	NCCN Guidelines
+Fulvestrant	palbociclib				Breast Cancer	NCCN Guidelines
+Fulvestrant	ribociclib				Breast Cancer	NCCN Guidelines
+Everolimus	exemestane				Breast Cancer	NCCN Guidelines
+Everolimus	fulvestrant				Breast Cancer	NCCN Guidelines
+Everolimus	tamoxifen				Breast Cancer	NCCN Guidelines
+Exemestane	trastuzumab				Breast Cancer	NCCN Guidelines
+Anastrozole	trastuzumab				Breast Cancer	NCCN Guidelines
+Letrozole	trastuzumab				Breast Cancer	NCCN Guidelines
+Exemestane	lapatinib				Breast Cancer	NCCN Guidelines
+Anastrozole	lapatinib				Breast Cancer	NCCN Guidelines
+Letrozole	lapatinib				Breast Cancer	NCCN Guidelines
+Exemestane	lapatinib	trastuzumab			Breast Cancer	NCCN Guidelines
+Anastrozole	lapatinib	trastuzumab			Breast Cancer	NCCN Guidelines
+Letrozole	lapatinib	trastuzumab			Breast Cancer	NCCN Guidelines
+Fulvestrant	trastuzumab				Breast Cancer	NCCN Guidelines
+tamoxifen	trastuzumab				Breast Cancer	NCCN Guidelines
+Gemcitabine	paclitaxel				Breast Cancer	NCCN Guidelines
+Docetaxel	capecitabine				Breast Cancer	NCCN Guidelines
+Gemcitabine	carboplatin				Breast Cancer	NCCN Guidelines
+Paclitaxel	bevacizumab				Breast Cancer	NCCN Guidelines
+pertuzumab	trastuzumab	docetaxel			Breast Cancer	NCCN Guidelines
+pertuzumab	trastuzumab	paclitaxel			Breast Cancer	NCCN Guidelines
+tucatinib	trastuzumab	capecitabine			Breast Cancer	NCCN Guidelines
+trastuzumab	Paclitaxel	carboplatin			Breast Cancer	NCCN Guidelines
+trastuzumab	docetaxel				Breast Cancer	NCCN Guidelines
+trastuzumab	vinorelbine				Breast Cancer	NCCN Guidelines
+trastuzumab	capecitabine				Breast Cancer	NCCN Guidelines
+lapatinib	capecitabine				Breast Cancer	NCCN Guidelines
+trastuzumab	lapatinib				Breast Cancer	NCCN Guidelines
+neratinib	capecitabine				Breast Cancer	NCCN Guidelines
+alpelisib	Fulvestrant				Breast Cancer	NCCN Guidelines
+atezolizumab	Paclitaxel				Breast Cancer	NCCN Guidelines
+erlotinib	ramucirumab				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+erlotinib	bevacizumab				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+dabrafenib	trametinib				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	pemetrexed	pembrolizumab			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+cisplatin	pemetrexed	pembrolizumab			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	Paclitaxel	bevacizumab	atezolizumab		Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	Paclitaxel	atezolizumab			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+nivolumab	ipilimumab	pemetrexed	carboplatin		Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+nivolumab	ipilimumab	pemetrexed	cisplatin		Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+nivolumab	ipilimumab				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	Paclitaxel	pembrolizumab			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+nivolumab	ipilimumab	Paclitaxel	carboplatin		Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+pembrolizumab	pemetrexed				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+atezolizumab	bevacizumab				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+cisplatin	Gemcitabine				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+cisplatin	Docetaxel				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+cisplatin	vinorelbine				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	Gemcitabine				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	pemetrexed				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+cisplatin	pemetrexed				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+Paclitaxel	carboplatin				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+cisplatin	etoposide				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	Docetaxel				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	etoposide				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	Paclitaxel	bevacizumab			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+carboplatin	pemetrexed	bevacizumab			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+bevacizumab	cisplatin	pemetrexed			Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+Gemcitabine	Docetaxel				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+Gemcitabine	vinorelbine				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+ramucirumab	Docetaxel				Carcinoma, Non-Small-Cell Lung	NCCN Guidelines
+Tretinoin	arsenic trioxide				Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	idarubicin				Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	gemtuzumab ozogamicin				Leukemia, Myeloid, Acute	NCCN Guidelines
+arsenic trioxide	Tretinoin				Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	mitoxantrone	idarubicin			Leukemia, Myeloid, Acute	NCCN Guidelines
+arsenic trioxide	Tretinoin	gemtuzumab ozogamicin			Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	daunorubicin	cytarabine			Leukemia, Myeloid, Acute	NCCN Guidelines
+daunorubicin	cytarabine				Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	idarubicin	cytarabine			Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	mitoxantrone				Leukemia, Myeloid, Acute	NCCN Guidelines
+cytarabine	daunorubicin	gemtuzumab ozogamicin			Leukemia, Myeloid, Acute	NCCN Guidelines
+cytarabine	idarubicin				Leukemia, Myeloid, Acute	NCCN Guidelines
+Fludarabine	cytarabine	Filgrastim	gemtuzumab ozogamicin		Leukemia, Myeloid, Acute	NCCN Guidelines
+cytarabine	daunorubicin	Midostaurin			Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	idarubicin	Etoposide			Leukemia, Myeloid, Acute	NCCN Guidelines
+Tretinoin	daunorubicin	Etoposide			Leukemia, Myeloid, Acute	NCCN Guidelines
+Fludarabine	Tretinoin	idarubicin	Filgrastim		Leukemia, Myeloid, Acute	NCCN Guidelines
+Venetoclax	Azacitidine				Leukemia, Myeloid, Acute	NCCN Guidelines
+Venetoclax	Decitabine				Leukemia, Myeloid, Acute	NCCN Guidelines
+Venetoclax	cytarabine				Leukemia, Myeloid, Acute	NCCN Guidelines
+Glasdegib	cytarabine				Leukemia, Myeloid, Acute	NCCN Guidelines
+Venetoclax	Tretinoin				Leukemia, Myeloid, Acute	NCCN Guidelines
+Glasdegib	Tretinoin				Leukemia, Myeloid, Acute	NCCN Guidelines
+Cyclophosphamide	Vincristine	Doxorubicin	Dexamethasone		Leukemia, Myeloid, Acute	NCCN Guidelines
+Methotrexate	cytarabine				Leukemia, Myeloid, Acute	NCCN Guidelines
+Cyclophosphamide	Vincristine	Doxorubicin	Prednisone		Leukemia, Myeloid, Acute	NCCN Guidelines
+Mesalazine	budesonide				Inflammatory Bowel Diseases	AGA Guidelines
+sulfasalazine	budesonide				Inflammatory Bowel Diseases	AGA Guidelines
+balsalazide	budesonide				Inflammatory Bowel Diseases	AGA Guidelines
+olsalazine	budesonide				Inflammatory Bowel Diseases	AGA Guidelines
+Mesalazine	prednisolone				Inflammatory Bowel Diseases	AGA Guidelines
+sulfasalazine	prednisolone				Inflammatory Bowel Diseases	AGA Guidelines
+balsalazide	prednisolone				Inflammatory Bowel Diseases	AGA Guidelines
+olsalazine	prednisolone				Inflammatory Bowel Diseases	AGA Guidelines
+infliximab	methotrexate				Inflammatory Bowel Diseases	AGA Guidelines
+adalimumab	methotrexate				Inflammatory Bowel Diseases	AGA Guidelines
+golimumab	methotrexate				Inflammatory Bowel Diseases	AGA Guidelines
+vedolizumab	methotrexate				Inflammatory Bowel Diseases	AGA Guidelines
+tofacitinib	methotrexate				Inflammatory Bowel Diseases	AGA Guidelines
+ustekinumab	methotrexate				Inflammatory Bowel Diseases	AGA Guidelines
+infliximab	azathioprine				Inflammatory Bowel Diseases	AGA Guidelines
+adalimumab	azathioprine				Inflammatory Bowel Diseases	AGA Guidelines
+golimumab	azathioprine				Inflammatory Bowel Diseases	AGA Guidelines
+vedolizumab	azathioprine				Inflammatory Bowel Diseases	AGA Guidelines
+tofacitinib	azathioprine				Inflammatory Bowel Diseases	AGA Guidelines
+ustekinumab	azathioprine				Inflammatory Bowel Diseases	AGA Guidelines
+infliximab	mercaptopurine				Inflammatory Bowel Diseases	AGA Guidelines
+adalimumab	mercaptopurine				Inflammatory Bowel Diseases	AGA Guidelines
+golimumab	mercaptopurine				Inflammatory Bowel Diseases	AGA Guidelines
+vedolizumab	mercaptopurine				Inflammatory Bowel Diseases	AGA Guidelines
+tofacitinib	mercaptopurine				Inflammatory Bowel Diseases	AGA Guidelines
+ustekinumab	mercaptopurine				Inflammatory Bowel Diseases	AGA Guidelines
+azathioprine	budesonide				Inflammatory Bowel Diseases	AGA Guidelines
+mercaptopurine	budesonide				Inflammatory Bowel Diseases	AGA Guidelines
+azathioprine	hydrocortisone				Inflammatory Bowel Diseases	AGA Guidelines
+mercaptopurine	hydrocortisone				Inflammatory Bowel Diseases	AGA Guidelines
+azathioprine	prednisolone				Inflammatory Bowel Diseases	AGA Guidelines
+mercaptopurine	prednisolone				Inflammatory Bowel Diseases	AGA Guidelines
+azathioprine	Beclomethasone dipropionate				Inflammatory Bowel Diseases	AGA Guidelines
+mercaptopurine	Beclomethasone dipropionate				Inflammatory Bowel Diseases	AGA Guidelines
+Atorvastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Fluvastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Lovastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pitavastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pravastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Rosuvastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Simvastatin	ezetimibe				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Atorvastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Fluvastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Lovastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pitavastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pravastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Rosuvastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Simvastatin	Alirocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Atorvastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Fluvastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Lovastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pitavastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pravastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Rosuvastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Simvastatin	Evolocumab				Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Atorvastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Fluvastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Lovastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pitavastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pravastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Rosuvastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Simvastatin	ezetimibe	Alirocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Atorvastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Fluvastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Lovastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pitavastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Pravastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Rosuvastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Simvastatin	ezetimibe	Evolocumab			Atherosclerosis	"AHA/ACC/AACVPR/AAPA/
+ABC/ACPM/ADA/AGS/APhA/ASPC/
+NLA/PCNA Guideline"
+Acetylsalicylic acid	Clopidogrel				Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Prasugrel				Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Ticagrelor				Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Clopidogrel	Dabigatran etexilate			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Clopidogrel	rivaroxaban			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Clopidogrel	apixaban			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Clopidogrel	edoxaban			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Clopidogrel	warfarin			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Ticagrelor	Dabigatran etexilate			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Ticagrelor	rivaroxaban			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Ticagrelor	apixaban			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Ticagrelor	edoxaban			Atherosclerosis	ACC Guideline
+Acetylsalicylic acid	Ticagrelor	warfarin			Atherosclerosis	ACC Guideline
+Clopidogrel	Dabigatran etexilate				Atherosclerosis	ACC Guideline
+Clopidogrel	rivaroxaban				Atherosclerosis	ACC Guideline
+Clopidogrel	apixaban				Atherosclerosis	ACC Guideline
+Clopidogrel	edoxaban				Atherosclerosis	ACC Guideline
+Clopidogrel	warfarin				Atherosclerosis	ACC Guideline
+Prasugrel	Dabigatran etexilate				Atherosclerosis	ACC Guideline
+Prasugrel	rivaroxaban				Atherosclerosis	ACC Guideline
+Prasugrel	apixaban				Atherosclerosis	ACC Guideline
+Prasugrel	edoxaban				Atherosclerosis	ACC Guideline
+Prasugrel	warfarin				Atherosclerosis	ACC Guideline
+Ticagrelor	Dabigatran etexilate				Atherosclerosis	ACC Guideline
+Ticagrelor	rivaroxaban				Atherosclerosis	ACC Guideline
+Ticagrelor	apixaban				Atherosclerosis	ACC Guideline
+Ticagrelor	edoxaban				Atherosclerosis	ACC Guideline
+Ticagrelor	warfarin				Atherosclerosis	ACC Guideline
+Pramlintide	Insulin lispro				Diabetes Mellitus, Type 1	ADA Guideline
+Pramlintide	Insulin glulisine				Diabetes Mellitus, Type 1	ADA Guideline
+Pramlintide	Insulin aspart				Diabetes Mellitus, Type 1	ADA Guideline
+Pramlintide	Insulin human				Diabetes Mellitus, Type 1	ADA Guideline
+Pramlintide	Insulin glargine				Diabetes Mellitus, Type 1	ADA Guideline
+Pramlintide	Insulin detemir				Diabetes Mellitus, Type 1	ADA Guideline
+Pramlintide	Insulin degludec				Diabetes Mellitus, Type 1	ADA Guideline
+metformin	Insulin lispro				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Insulin glulisine				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Insulin aspart				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Insulin human				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Insulin glargine				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Insulin detemir				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Insulin degludec				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Glimepiride				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Glipizide				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Glyburide				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Pioglitazone				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Rosiglitazone				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Alogliptin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Saxagliptin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Linagliptin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Sitagliptin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Canagliflozin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Dapagliflozin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Empagliflozin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Ertugliflozin				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Exenatide				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Dulaglutide				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Semaglutide				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Liraglutide				Diabetes Mellitus, Type 2	ADA Guideline
+metformin	Lixisenatide				Diabetes Mellitus, Type 2	ADA Guideline
