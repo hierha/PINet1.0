@@ -1,0 +1,16 @@
+disease_index	di_Symbol	Mesh_ID	Path_KEGG	type	KEGG_ID
+0	Influenza, Human	MESH:D007251	path:hsa05164	virus	ds:H00398
+0	Influenza, Human	MESH:D007251	path:hsa05164	virus	ds:H00399
+1	Acquired Immunodeficiency Syndrome	MESH:D000163	path:hsa05170	virus	ds:H00406
+1	Acquired Immunodeficiency Syndrome	MESH:D000163	path:hsa05170	virus	ds:H01563
+2	COVID-19	MESH:D000086382	path:hsa05171	virus	ds:H02398
+3	Breast Cancer	MESH:D000071960	path:hsa05224	cancer	ds:H00031
+3	Breast Cancer	MESH:D018270	path:hsa05224	cancer	ds:H00031
+3	Breast Cancer	MESH:D018275	path:hsa05224	cancer	ds:H00031
+4	Atherosclerosis	MESH:D050197	path:hsa05417	Cardiovascular	ds:H02505
+5	Inflammatory Bowel Diseases	MESH:D015212	path:05321	immune	ds:H01227
+5	Inflammatory Bowel Diseases	MESH:D015212	path:05321	immune	ds:H01466
+6	Leukemia, Myeloid, Acute	MESH:D015470	path:hsa05221	cancer	ds:H00003
+7	Diabetes Mellitus, Type 1	MESH:D003922	path:hsa04930	endocrine and metabolic	ds:H00408
+8	Diabetes Mellitus, Type 2	MESH:D003924	path:hsa04940	endocrine and metabolic	ds:H00409
+9	Carcinoma, Non-Small-Cell Lung	MESH:D002289	path:hsa05223	cancer	ds:H00014
