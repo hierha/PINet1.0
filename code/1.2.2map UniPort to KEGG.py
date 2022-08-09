@@ -163,13 +163,12 @@ def get_id_mapping_results_stream(url):
     )
     return decode_results(request, file_format, compressed)
 
-#构建UniPort蛋白集合B
 protein_list = []
 with open(r'E:\Project\PINet\data_set\database\STRING\processed\STRING to UniPort(STRING).csv', 'r') as file_1,\
     open(r'E:\Project\PINet\data_set\database\STRING\processed\UniPort to KEGG(STRING).csv', 'a', encoding='utf-8',newline='') as file_2:
     spamwriter = csv.writer(file_2, delimiter= '\t')
     spamwriter.writerow(['UniProt_ID', 'KEGG_ID'])
-    #构建UniPort蛋白集合B
+
     for line in file_1.readlines():
         protein = line.split('\t')[1]
         protein_list.append(protein)
