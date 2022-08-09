@@ -9,4 +9,3 @@ data_4 = data_3[['preferred_name','STRING_ID','KEGG_ID']]
 data_4.columns=['GeneName','STRING_ID','KEGG_ID']
 
 data_4.to_csv(r'E:\Project\PINet\data_set\database\STRING\processed\protein info of STRING.csv', sep='\t', index =None)
-
